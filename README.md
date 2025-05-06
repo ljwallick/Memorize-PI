@@ -4,5 +4,6 @@ A cool terminal tool that lets you memorize some PI, showing your mistakes and e
 If you want to change how strict or lenient it is, go to the function `check_shifted_match()` and add a couple parameters in order or by kwarg
 - `window`: The amount of digits it will check if you added/skipped some
 - `match_level`: How many digits you want to be correct in a row to determine a(n) added/skipped group
+- `extra_digs`: How many digits you want to add to the end to give a preview to help memorize more
 
-That's it! If you need more digits, as of now, you'll need to add them yourself. I don't want to take up too much memory.
+That's it! You can use this tool to test and increase your PI memory. I currently have almost 60 digits memorized. More than the average persone, for sure.
