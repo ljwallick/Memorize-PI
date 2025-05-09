@@ -6,4 +6,4 @@ If you want to change how strict or lenient it is, go to the function `check_shi
 - `match_level`: How many digits you want to be correct in a row to determine a(n) added/skipped group
 - `extra_digs`: How many digits you want to add to the end to give a preview to help memorize more
 
-That's it! You can use this tool to test and increase your PI memory. I currently have almost 60 digits memorized. More than the average persone, for sure.
+That's it! You can use this tool to test and increase your PI memory. I currently have almost 60 digits memorized. More than the average person, for sure.
